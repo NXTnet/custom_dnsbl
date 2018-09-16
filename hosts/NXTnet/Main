@@ -1,5 +1,8 @@
 # ICHB Pallady Custom DNSBL
 #
+# Date: September 16 2018
+# Number of unique domains: 0
+#
 # ===============================================================
 
 127.0.0.1 localhost
@@ -18,3 +21,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 #=====================================
+
+
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
