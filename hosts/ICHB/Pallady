@@ -1,7 +1,7 @@
 # ICHB Pallady Custom DNSBL
 #
 # Date: September 16 2018
-# Number of unique domains: 2
+# Number of unique domains: 9
 #
 # ===============================================================
 
@@ -24,6 +24,13 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 vk.com
 0.0.0.0 4chan.org
+0.0.0.0 7chan.org
+0.0.0.0 8chan.co
+0.0.0.0 8ch.net
+0.0.0.0 samachan.org
+0.0.0.0 mewch.net
+0.0.0.0 fapchan.org
+0.0.0.0 1ch.us
 
 # blacklist
 #
