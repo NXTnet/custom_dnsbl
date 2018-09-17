@@ -37,6 +37,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 store.steampowered.com
 0.0.0.0 miniclip.com
 0.0.0.0 miniclip.ro
+0.0.0.0 epicgames.com
+0.0.0.0 easy.ac
+0.0.0.0 easyanticheat.net
+0.0.0.0 playstation.com
+0.0.0.0 xbox.com
 
 # blacklist
 #
