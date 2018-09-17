@@ -1,7 +1,7 @@
 # ICHB Pallady Custom DNSBL
 #
 # Date: September 17 2018
-# Number of unique domains: 15
+# Number of unique domains: 22
 #
 # ===============================================================
 
@@ -42,6 +42,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 easyanticheat.net
 0.0.0.0 playstation.com
 0.0.0.0 xbox.com
+0.0.0.0 xboxlive.com
+0.0.0.0 pubg.com
 
 # blacklist
 #
