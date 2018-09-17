@@ -277,3 +277,18 @@
 .stats.g.doubleclick.net
 .stats.l.doubleclick.net # CNAME for (stats.g.doubleclick.net)
 .csi.gstatic.com
+.app-measurement.com
+.graph.instagram.com
+.instagram.c10r.facebook.com # CNAME for (graph.instagram.com)
+.id.google.com
+.id.l.google.com # CNAME for (id.google.com)
+.google-analytics.com
+.otf.msn.com
+.iceotf-prod-fe-tm.trafficmanager.net # CNAME for (otf.msn.com)
+.iceotf-prod-fe-westeurope.cloudapp.net # CNAME for (otf.msn.com)
+.googleads.g.doubleclick.net
+.pagead46.l.doubleclick.net # CNAME for (googleads.g.doubleclick.net)
+.www.googleadservices.com
+.pagead.l.doubleclick.net # CNAME for (www.googleadservices.com)
+.collector.githubapp.com
+.analytics-collector-28944298.us-east-1.elb.amazonaws.com # CNAME for (collector.githubapp.com)
