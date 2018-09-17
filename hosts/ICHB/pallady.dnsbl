@@ -1,7 +1,7 @@
 # ICHB Pallady Custom DNSBL
 #
-# Date: September 16 2018
-# Number of unique domains: 9
+# Date: September 17 2018
+# Number of unique domains: 15
 #
 # ===============================================================
 
@@ -31,6 +31,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 mewch.net
 0.0.0.0 fapchan.org
 0.0.0.0 1ch.us
+0.0.0.0 ea.com
+0.0.0.0 prod.telemetry.ros.rockstargames.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 store.steampowered.com
+0.0.0.0 miniclip.com
+0.0.0.0 miniclip.ro
 
 # blacklist
 #
