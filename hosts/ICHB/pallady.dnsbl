@@ -1,7 +1,7 @@
 # ICHB Pallady Custom DNSBL
 #
 # Date: September 17 2018
-# Number of unique domains: 22
+# Number of unique domains: 25
 #
 # ===============================================================
 
@@ -44,6 +44,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 xbox.com
 0.0.0.0 xboxlive.com
 0.0.0.0 pubg.com
+0.0.0.0 pubgmobile.com
+0.0.0.0 www.pubg.com
+0.0.0.0 www.pubgmobile.com
 
 # blacklist
 #
