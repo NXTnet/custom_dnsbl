@@ -275,3 +275,5 @@
 .pagead.l.doubleclick.net # CNAME for (www.googleadservices.com)
 .collector.githubapp.com
 .analytics-collector-28944298.us-east-1.elb.amazonaws.com # CNAME for (collector.githubapp.com)
+.ichb.edupage.org
+.edupage.org
